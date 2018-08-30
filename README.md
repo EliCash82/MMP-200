@@ -11,3 +11,5 @@ Course Content will be organized as follows:
 | HOMEWORK ASSIGNMENTS | This is where you will find directions for homework deliverables due by date listed.         |
 | SCREENCASTS          | Links to relevent instructional screencasts recorded for reference purposes outside of class |
 | SYLLABUS             | Initial Course Expectations, will most likely be expanded, so watch closely, especially before Midterm Proposal and Final Project |
+
+![bmcc logo](https://github.com/EliCash82/MMP-200/blob/master/bmcc-logo.png?raw=true)
