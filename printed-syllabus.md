@@ -1,5 +1,4 @@
-### Welcome to MMP 200.  You will find all of the most essential course Content
-at the following links:
+### Welcome to MMP 200.  You will find all of the most essential course content at the following links:
 
 # MMP 200 FALL 2018 GITHUB REPO
 
