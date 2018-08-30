@@ -19,7 +19,7 @@ ability to submit their homework assignments in various media formats.
 
 ### REQUIRED TEXTS
 
-* HTML Cheat Seet: https://github.com/gendx/html-cheat-sheet
+* HTML Cheat Sheet: https://github.com/gendx/html-cheat-sheet
 * Bootstrap documentation: https://getbootstrap.com/docs/4.1/getting-started/introduction/
 * PureCSS framework documentation: https://purecss.io/start/
 * Online text will be assigned (Not preplanned to keep with current design trends, data feed articles from across channels)
@@ -31,5 +31,5 @@ ability to submit their homework assignments in various media formats.
 
 ### OTHER REQUIRED RESOURCES
 
-* A USB drive https://www.amazon.com/SanDisk-Cruzer-Glide-Flash-Drive/dp/B008AF380Q/ref=sr_1_1_acs_ac_1?s=electronics&ie=UTF8&qid=1535600069&sr=1-1-acs&keywords=usb+flash+drive. - any flashdrive, this was the cheapest one I saw after a quick search.  Most homework will be turned in via VOCAT, but some may opt to use flash drive to turn in assignments.
+* A USB drive https://www.amazon.com/SanDisk-Cruzer-Glide-Flash-Drive/dp/B008AF380Q/ref=sr_1_1_acs_ac_1?s=electronics&ie=UTF8&qid=1535600069&sr=1-1-acs&keywords=usb+flash+drive. - any flash-drive, this was the cheapest one I saw after a quick search.  Most homework will be turned in via VOCAT, but some may opt to use flash drive to turn in assignments.
 * Github Access (NO PERSONAL ACCOUNT REQUIRED - ONLY ACCESS TO PROFESSOR'S GITHUB COURSE REPOSITORY IS REQUIRED)
