@@ -38,7 +38,6 @@ MMP 100
 
 ### REQUIRED TEXTS
 
-
 * HTML Cheat Seet: https://github.com/gendx/html-cheat-sheet
 * Bootstrap documentation:
 * PureCSS framework documentation: https://purecss.io/start/
