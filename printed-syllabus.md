@@ -2,7 +2,7 @@
 
 # MMP 200 FALL 2018 GITHUB REPO
 
-https://github.com/EliCash82/MMP-200
+## https://github.com/EliCash82/MMP-200
 
 This is where you will find all updated homework assignments, midterm proposal
 prompts, and final project prompts.  This is also where markup languages, stylesheets,
@@ -10,7 +10,7 @@ code, and other content will be stored and accessible.
 
 # CUNY VOCAT
 
-https://bmcc.vocat.io/users/sign_in
+## https://bmcc.vocat.io/users/sign_in
 
 You will not be able to log into VOCAT during week one, but this is where
 students will find graded assignment expectations in rubric form and the
