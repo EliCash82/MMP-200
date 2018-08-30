@@ -39,11 +39,13 @@ MMP 100
 ### REQUIRED TEXTS
 
 * HTML Cheat Seet: https://github.com/gendx/html-cheat-sheet
-* Bootstrap documentation:
+* Bootstrap documentation: https://getbootstrap.com/docs/4.1/getting-started/introduction/
 * PureCSS framework documentation: https://purecss.io/start/
 * Online text will be assigned (Not preplanned to keep with current design trends, data feed articles from across channels)
 
 ### RECCOMENDED TEXTS
+
+* https://www.reddit.com/r/web_design
 * O'Reilly HTML5 Pocket Reference
 * CSS Zen Garden: http://www.mezzoblue.com/zengarden/alldesigns/
 * Why's poignant guide to Ruby:  https://poignant.guide/book/

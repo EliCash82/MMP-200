@@ -20,7 +20,7 @@ ability to submit their homework assignments in various media formats.
 ### REQUIRED TEXTS
 
 * HTML Cheat Seet: https://github.com/gendx/html-cheat-sheet
-* Bootstrap documentation:
+* Bootstrap documentation: https://getbootstrap.com/docs/4.1/getting-started/introduction/
 * PureCSS framework documentation: https://purecss.io/start/
 * Online text will be assigned (Not preplanned to keep with current design trends, data feed articles from across channels)
 
