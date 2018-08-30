@@ -13,44 +13,63 @@ the creation of pages.
 A course repository of HW Readings, Lab Praxis, and Final Project
 Directions/Commentary/Resources <https://github.com/EliCash82/MMP-200>
 
+### CUNY VOCAT EVALUATION
+
+This course is praxis based.  Students will be asked to share their work
+via the VOCAT system. This will be done by sharing screenshots of HTML/CSS/JS
+files as well as raw media files for evaluation.
+
+http://vocat.io/about
+
+"Developed at the City University of New York in dialogue with faculty and staff, Vocat extends the boundaries of the classroom by facilitating detailed formative and summative feedback on a variety of media types."  
+
 ### PREREQUISITES:
 MMP 100
 
 | Course Student Learning Outcomes (Students will be able to…) | Measurements (means of assessment for student learning outcomes listed in first column |
 | ------------------------------------------------------------ | -------------------------------------------------------------------------------------: |
-| Create web pages compliant with HTML web standards.	         | All assignments and quizzes |
+| Create web pages compliant with HTML web standards.	         | All assignments and quizzes                 |
 | Use CSS to style web pages.	                                 | All assignments and quizzes |
 | Use visual design principles to design HTML/CSS layouts.	   | Assignments and final Project |
 | Choose, organize and label content appropriate to site’s purpose, audience and context.	| Assignments & Final Project |
 | Plan and develop a complete website that responds to predefined goals and is organized and designed to serve specific audience groups. |	Final Project |
 | Design rich media and/or interactions that enhance meaning and user experience.	| Final Project |
 
+
 ### REQUIRED TEXT
 
-* HTML5 & CSS3 Visual QuickStart Guide, 7th Edition, by Elizabeth Castro & Bruce Hyslop
-* Online text will be assigned
+
+* HTML Cheat Seet: https://github.com/gendx/html-cheat-sheet
+* Bootstrap documentation:
+* PureCSS framework documentation: https://purecss.io/start/
+* Online text will be assigned (Not preplanned to keep with current design trends, data feed articles from across channels)
+
+### RECCOMENDED TEXTS
+* O'Reilly HTML5 Pocket Reference
+* CSS Zen Garden: http://www.mezzoblue.com/zengarden/alldesigns/
+* Why's poignant guide to Ruby:  https://poignant.guide/book/
 
 ### OTHER REQUIRED RESOURCES
 
-* A USB drive or an online storage account.
-* A FREE account on Github
+* A USB drive https://www.amazon.com/SanDisk-Cruzer-Glide-Flash-Drive/dp/B008AF380Q/ref=sr_1_1_acs_ac_1?s=electronics&ie=UTF8&qid=1535600069&sr=1-1-acs&keywords=usb+flash+drive. - any flashdrive, this was the cheapest one I saw after a quick search.  Most homework will be turned in via VOCAT, but some may opt to use flash drive to turn in assignments.
+* Github Access (NO PERSONAL ACCOUNT REQUIRED - ONLY ACCESS TO PROFESSOR'S GITHUB COURSE REPOSITORY IS REQUIRED)
 
 ### USE OF TECHNOLOGY
 * Students will use computers and Adobe software to work on web design projects in class.
 * Professor will be using GIMP (GNU Image Manipulation Program) <https://www.gimp.org/> for several in-class demonstrations, for those with their own computer this is a free and open source software package.  Those that are more comfortable using Photoshop are welcome to do so.
-* You will need a text editor for this class, while there are some minimalist options like Notepad, professor reccomendation is ATOM <https://atom.io/>
-A class website is forthcoming.
+* You will need a text editor for this class, while there are some minimalist options like Notepad, professor recommendation is ATOM <https://atom.io/>
+A class website is forthcoming.  
 
 ### REQUIREMENTS & EVALUATION OF STUDENTS
 
 Grades will be decided based on timely submission, efforts and results of assignments.
 
-* Assignment 1: 0%
-* Assignments 2-6: 40%
-* Final Project: 50%
+* Assignments 1-6: 40%
+* Midterm Proposal: 25%
+* Final Project: 25%
 * Class participation: 10%
-(Note - Different than distributed syllabus, but will give bonus if homework 1 screenshots are e-mailed to me)
 
+---
 
 ### OUTLINE OF TOPICS
 
