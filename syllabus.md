@@ -36,7 +36,7 @@ MMP 100
 | Design rich media and/or interactions that enhance meaning and user experience.	| Final Project |
 
 
-### REQUIRED TEXT
+### REQUIRED TEXTS
 
 
 * HTML Cheat Seet: https://github.com/gendx/html-cheat-sheet
