@@ -13,3 +13,15 @@ Course Content will be organized as follows:
 | SYLLABUS             | Initial Course Expectations, will most likely be expanded, so watch closely, especially before Midterm Proposal and Final Project |
 
 ![bmcc logo](https://github.com/EliCash82/MMP-200/blob/master/bmcc-logo.png?raw=true)
+
+### Screenshots
+
+* HOW TO TAKE SCREENSHOTS ON AN APPLE COMPUTER:
+  * Press Shift-Command-4. ...
+  * Move the crosshair to where you want to start the screenshot, then drag to select an area. ...
+  * When you've selected the area you want, release your mouse or trackpad button. ...
+  * Find the screenshot as a .png file on your desktop.
+* HOW TO TAKE SCREENSHOTS ON A WINDOWS COMPUTER:
+  * Select the Start button
+  * type snipping tool in the search box
+  * select Snipping Tool from the list of results.
