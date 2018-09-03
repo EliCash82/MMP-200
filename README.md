@@ -12,8 +12,6 @@ Course Content will be organized as follows:
 | SCREENCASTS          | Links to relevent instructional screencasts recorded for reference purposes outside of class |
 | SYLLABUS             | Initial Course Expectations, will most likely be expanded, so watch closely, especially before Midterm Proposal and Final Project |
 
-![bmcc logo](https://github.com/EliCash82/MMP-200/blob/master/bmcc-logo.png?raw=true)
-
 ### Screenshots
 
 * HOW TO TAKE SCREENSHOTS ON AN APPLE COMPUTER:
@@ -25,3 +23,5 @@ Course Content will be organized as follows:
   * Select the Start button
   * type snipping tool in the search box
   * select Snipping Tool from the list of results.
+
+  ![bmcc logo](https://github.com/EliCash82/MMP-200/blob/master/bmcc-logo.png?raw=true)
