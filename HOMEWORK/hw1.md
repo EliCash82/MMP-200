@@ -8,7 +8,7 @@ Four screenshots should be of your **Text Editor**, preferably **Atom**.  These 
 include a **jquery** file, a **bootstrap javascript** file, a **bootstrap CSS** file, and an **HTML**
 file.
 
-Below is an image for reference.  Your webpage should be more filled out than this.  In your **HTML** file include at least one `h1` tag and should make a call to the **bootstrap CSS** file, the **jquery** file, and the **bootstrap javascript** file between the `head` tags.
+Below is an image for reference.  Your **HTML** file should be more filled out than this.  In your **HTML** file include at least one `h1` tag and make a call to the **bootstrap CSS** file, the **jquery** file, and the **bootstrap javascript** file between the opening and closing `head` tags.
 
 ![sample](image-a-hw1.png)
 
