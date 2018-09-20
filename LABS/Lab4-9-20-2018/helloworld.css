@@ -1,0 +1,18 @@
+h1 {
+  font-family: Helvetica, sans-serif;
+  font-family: 'Press Start 2P', cursive;
+  color: #222222;
+  font-size: 24px;
+}
+
+body {
+    background-color: #bdbdbd;
+}
+
+.boxes {
+    height: 200px;
+}
+
+.alt-boxes {
+    height: 300px;
+}
