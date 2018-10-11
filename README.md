@@ -10,7 +10,9 @@ Course Content will be organized as follows:
 | LABS                 | These are demos done in class to highlight a specific aspect of web design and development   |
 | HOMEWORK ASSIGNMENTS | This is where you will find directions for homework deliverables due by date listed.         |
 | SCREENCASTS          | Links to relevent instructional screencasts recorded for reference purposes outside of class |
-| SYLLABUS             | Initial Course Expectations, will most likely be expanded, so watch closely, especially before Midterm Proposal and Final Project |
+| SYLLABUS             | Course expectations and requirements                                                         |
+| MIDTERM-FINAL        | Midterm Proposal and Final Project requirements                                              |
+
 
 ### Screenshots
 
