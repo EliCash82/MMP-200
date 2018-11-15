@@ -1,0 +1,6 @@
+video {
+    width: 800px;
+    height: auto;
+    autoplay: true;
+    loop: true;
+}
